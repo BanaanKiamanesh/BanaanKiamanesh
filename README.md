@@ -1,9 +1,9 @@
 ### I'm just an ordinary working man. Randomly learning what cheers me up..! 
  #### **I'm a**
- - 🔭 Julian
+ - 🔭 Julian(Julia Programmer)
  - 🚀 Control Engineer
  - 🧠 Random Thinker
- - 🤖 Junior Roboticist
+ - 🤖 Junior Robotics Engineer
  - ...
  
  ### Find me all around the web:
@@ -17,3 +17,5 @@
 </p>
 
 
+#### Read What Goes Inside of My Head:
+ - [Tinkering Ban](https://t.me/TinkeringBan) ✍️
