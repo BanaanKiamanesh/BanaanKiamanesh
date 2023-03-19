@@ -15,7 +15,3 @@
 <a href="http://instagram.com/banaankiamanesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" alt="" height="30" /></a>
 <a href="http://youtube.com/@banaankiamanesh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" alt="" height="30" /></a> 
 </p>
-
-
-#### Read What Goes Inside of My Head:
- - [Tinkering Ban](https://t.me/TinkeringBan) ✍️
