@@ -1,7 +1,14 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=▶▶+Hello!+👋+I'm+Banaan+(aka Captain!)◀&center=true&size=25">
+  </a>
+</h1>
+
+
 [![](https://visitcount.itsvg.in/api?id=BanaanKiamanesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # **About Captain:**
-🔭 Julian(Julia Programmer)<br>🚀 Control Engineer<br>🧠 AI/Neuroscience Enthusiast<br>🤖 Junior Robotics Engineer<br>⚡Datascience Enthusiast
+🚀 Control Engineer<br>🤖 Junior Robotics Engineer <br>🧠 AI/Neuroscience Enthusiast <br>⚡Datascience Enthusiast <br>🔭 Julian(Julia Programmer)<br>
 
 
 ## 🌐 Socials:
